@@ -1,0 +1,1100 @@
+application/gzip
+application/gzip
+Started analysis of 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 5% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 10% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 15% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 20% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 25% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 30% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 35% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 40% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 45% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 50% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 55% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 60% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 65% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 70% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 75% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 80% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 85% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 90% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Approx 95% complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Analysis complete for 10_2G_both_S8_L008_R1_001.fastq.gz
+Started analysis of 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 5% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 10% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 15% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 20% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 25% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 30% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 35% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 40% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 45% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 50% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 55% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 60% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 65% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 70% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 75% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 80% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 85% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 90% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Approx 95% complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+Analysis complete for 10_2G_both_S8_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 5% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 10% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 15% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 20% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 25% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 30% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 35% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 40% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 45% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 50% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 55% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 60% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 65% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 70% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 75% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 80% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 85% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 90% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Approx 95% complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Analysis complete for 11_2H_both_S9_L008_R1_001.fastq.gz
+Started analysis of 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 5% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 10% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 15% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 20% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 25% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 30% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 35% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 40% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 45% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 50% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 55% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 60% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 65% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 70% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 75% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 80% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 85% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 90% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Approx 95% complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+Analysis complete for 11_2H_both_S9_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 5% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 10% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 15% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 20% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 25% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 30% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 35% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 40% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 45% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 50% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 55% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 60% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 65% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 70% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 75% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 80% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 85% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 90% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Approx 95% complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Analysis complete for 1_2A_control_S1_L008_R1_001.fastq.gz
+Started analysis of 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 5% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 10% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 15% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 20% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 25% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 30% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 35% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 40% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 45% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 50% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 55% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 60% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 65% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 70% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 75% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 80% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 85% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 90% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Approx 95% complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+Analysis complete for 1_2A_control_S1_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 5% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 10% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 15% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 20% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 25% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 30% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 35% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 40% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 45% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 50% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 55% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 60% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 65% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 70% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 75% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 80% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 85% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 90% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Approx 95% complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Analysis complete for 14_3B_control_S10_L008_R1_001.fastq.gz
+Started analysis of 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 5% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 10% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 15% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 20% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 25% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 30% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 35% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 40% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 45% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 50% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 55% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 60% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 65% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 70% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 75% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 80% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 85% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 90% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Approx 95% complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+Analysis complete for 14_3B_control_S10_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 5% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 10% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 15% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 20% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 25% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 30% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 35% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 40% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 45% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 50% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 55% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 60% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 65% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 70% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 75% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 80% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 85% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 90% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Approx 95% complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Analysis complete for 15_3C_mbnl_S11_L008_R1_001.fastq.gz
+Started analysis of 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 5% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 10% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 15% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 20% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 25% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 30% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 35% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 40% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 45% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 50% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 55% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 60% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 65% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 70% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 75% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 80% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 85% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 90% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Approx 95% complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+Analysis complete for 15_3C_mbnl_S11_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 5% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 10% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 15% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 20% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 25% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 30% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 35% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 40% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 45% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 50% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 55% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 60% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 65% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 70% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 75% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 80% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 85% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 90% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Approx 95% complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Analysis complete for 16_3D_mbnl_S12_L008_R1_001.fastq.gz
+Started analysis of 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 5% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 10% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 15% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 20% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 25% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 30% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 35% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 40% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 45% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 50% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 55% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 60% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 65% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 70% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 75% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 80% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 85% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 90% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Approx 95% complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+Analysis complete for 16_3D_mbnl_S12_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 5% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 10% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 15% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 20% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 25% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 30% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 35% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 40% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 45% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 50% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 55% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 60% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 65% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 70% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 75% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 80% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 85% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 90% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Approx 95% complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Analysis complete for 17_3E_fox_S13_L008_R1_001.fastq.gz
+Started analysis of 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 5% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 10% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 15% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 20% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 25% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 30% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 35% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 40% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 45% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 50% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 55% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 60% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 65% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 70% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 75% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 80% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 85% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 90% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Approx 95% complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+Analysis complete for 17_3E_fox_S13_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 5% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 10% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 15% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 20% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 25% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 30% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 35% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 40% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 45% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 50% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 55% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 60% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 65% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 70% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 75% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 80% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 85% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 90% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Approx 95% complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Analysis complete for 19_3F_fox_S14_L008_R1_001.fastq.gz
+Started analysis of 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 5% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 10% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 15% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 20% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 25% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 30% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 35% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 40% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 45% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 50% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 55% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 60% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 65% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 70% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 75% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 80% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 85% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 90% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Approx 95% complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+Analysis complete for 19_3F_fox_S14_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 5% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 10% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 15% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 20% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 25% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 30% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 35% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 40% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 45% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 50% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 55% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 60% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 65% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 70% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 75% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 80% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 85% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 90% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Approx 95% complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Analysis complete for 21_3G_both_S15_L008_R1_001.fastq.gz
+Started analysis of 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 5% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 10% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 15% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 20% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 25% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 30% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 35% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 40% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 45% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 50% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 55% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 60% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 65% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 70% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 75% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 80% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 85% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 90% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Approx 95% complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+Analysis complete for 21_3G_both_S15_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 5% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 10% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 15% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 20% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 25% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 30% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 35% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 40% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 45% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 50% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 55% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 60% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 65% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 70% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 75% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 80% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 85% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 90% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Approx 95% complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Analysis complete for 22_3H_both_S16_L008_R1_001.fastq.gz
+Started analysis of 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 5% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 10% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 15% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 20% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 25% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 30% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 35% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 40% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 45% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 50% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 55% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 60% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 65% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 70% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 75% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 80% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 85% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 90% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Approx 95% complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+Analysis complete for 22_3H_both_S16_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 5% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 10% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 15% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 20% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 25% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 30% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 35% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 40% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 45% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 50% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 55% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 60% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 65% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 70% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 75% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 80% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 85% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 90% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Approx 95% complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Analysis complete for 2_2B_control_S2_L008_R1_001.fastq.gz
+Started analysis of 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 5% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 10% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 15% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 20% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 25% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 30% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 35% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 40% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 45% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 50% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 55% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 60% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 65% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 70% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 75% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 80% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 85% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 90% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Approx 95% complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+Analysis complete for 2_2B_control_S2_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 5% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 10% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 15% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 20% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 25% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 30% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 35% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 40% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 45% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 50% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 55% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 60% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 65% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 70% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 75% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 80% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 85% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 90% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Approx 95% complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Analysis complete for 23_4A_control_S17_L008_R1_001.fastq.gz
+Started analysis of 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 5% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 10% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 15% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 20% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 25% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 30% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 35% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 40% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 45% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 50% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 55% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 60% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 65% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 70% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 75% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 80% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 85% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 90% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Approx 95% complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+Analysis complete for 23_4A_control_S17_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 5% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 10% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 15% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 20% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 25% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 30% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 35% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 40% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 45% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 50% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 55% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 60% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 65% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 70% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 75% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 80% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 85% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 90% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Approx 95% complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Analysis complete for 24_4A_control_S18_L008_R1_001.fastq.gz
+Started analysis of 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 5% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 10% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 15% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 20% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 25% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 30% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 35% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 40% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 45% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 50% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 55% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 60% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 65% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 70% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 75% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 80% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 85% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 90% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Approx 95% complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+Analysis complete for 24_4A_control_S18_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 5% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 10% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 15% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 20% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 25% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 30% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 35% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 40% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 45% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 50% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 55% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 60% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 65% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 70% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 75% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 80% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 85% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 90% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Approx 95% complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Analysis complete for 27_4C_mbnl_S19_L008_R1_001.fastq.gz
+Started analysis of 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 5% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 10% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 15% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 20% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 25% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 30% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 35% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 40% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 45% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 50% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 55% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 60% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 65% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 70% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 75% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 80% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 85% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 90% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Approx 95% complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+Analysis complete for 27_4C_mbnl_S19_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 5% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 10% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 15% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 20% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 25% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 30% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 35% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 40% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 45% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 50% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 55% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 60% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 65% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 70% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 75% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 80% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 85% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 90% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Approx 95% complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Analysis complete for 28_4D_mbnl_S20_L008_R1_001.fastq.gz
+Started analysis of 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 5% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 10% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 15% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 20% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 25% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 30% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 35% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 40% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 45% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 50% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 55% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 60% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 65% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 70% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 75% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 80% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 85% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 90% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Approx 95% complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+Analysis complete for 28_4D_mbnl_S20_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 5% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 10% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 15% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 20% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 25% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 30% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 35% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 40% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 45% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 50% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 55% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 60% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 65% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 70% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 75% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 80% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 85% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 90% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Approx 95% complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Analysis complete for 29_4E_fox_S21_L008_R1_001.fastq.gz
+Started analysis of 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 5% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 10% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 15% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 20% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 25% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 30% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 35% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 40% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 45% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 50% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 55% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 60% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 65% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 70% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 75% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 80% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 85% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 90% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Approx 95% complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+Analysis complete for 29_4E_fox_S21_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 5% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 10% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 15% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 20% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 25% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 30% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 35% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 40% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 45% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 50% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 55% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 60% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 65% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 70% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 75% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 80% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 85% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 90% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Approx 95% complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Analysis complete for 31_4F_fox_S22_L008_R1_001.fastq.gz
+Started analysis of 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 5% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 10% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 15% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 20% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 25% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 30% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 35% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 40% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 45% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 50% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 55% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 60% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 65% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 70% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 75% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 80% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 85% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 90% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Approx 95% complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+Analysis complete for 31_4F_fox_S22_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 5% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 10% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 15% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 20% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 25% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 30% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 35% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 40% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 45% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 50% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 55% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 60% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 65% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 70% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 75% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 80% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 85% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 90% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Approx 95% complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Analysis complete for 32_4G_both_S23_L008_R1_001.fastq.gz
+Started analysis of 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 5% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 10% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 15% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 20% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 25% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 30% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 35% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 40% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 45% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 50% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 55% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 60% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 65% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 70% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 75% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 80% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 85% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 90% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Approx 95% complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+Analysis complete for 32_4G_both_S23_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 5% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 10% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 15% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 20% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 25% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 30% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 35% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 40% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 45% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 50% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 55% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 60% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 65% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 70% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 75% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 80% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 85% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 90% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Approx 95% complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Analysis complete for 3_2B_control_S3_L008_R1_001.fastq.gz
+Started analysis of 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 5% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 10% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 15% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 20% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 25% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 30% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 35% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 40% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 45% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 50% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 55% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 60% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 65% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 70% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 75% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 80% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 85% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 90% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Approx 95% complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+Analysis complete for 3_2B_control_S3_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 5% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 10% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 15% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 20% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 25% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 30% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 35% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 40% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 45% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 50% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 55% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 60% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 65% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 70% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 75% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 80% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 85% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 90% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Approx 95% complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Analysis complete for 34_4H_both_S24_L008_R1_001.fastq.gz
+Started analysis of 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 5% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 10% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 15% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 20% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 25% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 30% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 35% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 40% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 45% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 50% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 55% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 60% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 65% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 70% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 75% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 80% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 85% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 90% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Approx 95% complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+Analysis complete for 34_4H_both_S24_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 5% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 10% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 15% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 20% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 25% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 30% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 35% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 40% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 45% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 50% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 55% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 60% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 65% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 70% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 75% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 80% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 85% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 90% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Approx 95% complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Analysis complete for 4_2C_mbnl_S4_L008_R1_001.fastq.gz
+Started analysis of 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 5% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 10% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 15% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 20% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 25% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 30% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 35% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 40% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 45% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 50% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 55% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 60% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 65% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 70% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 75% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 80% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 85% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 90% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Approx 95% complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+Analysis complete for 4_2C_mbnl_S4_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 5% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 10% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 15% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 20% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 25% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 30% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 35% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 40% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 45% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 50% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 55% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 60% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 65% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 70% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 75% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 80% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 85% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 90% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Approx 95% complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Analysis complete for 6_2D_mbnl_S5_L008_R1_001.fastq.gz
+Started analysis of 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 5% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 10% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 15% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 20% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 25% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 30% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 35% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 40% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 45% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 50% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 55% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 60% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 65% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 70% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 75% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 80% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 85% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 90% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Approx 95% complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+Analysis complete for 6_2D_mbnl_S5_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 5% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 10% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 15% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 20% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 25% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 30% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 35% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 40% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 45% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 50% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 55% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 60% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 65% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 70% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 75% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 80% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 85% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 90% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Approx 95% complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Analysis complete for 7_2E_fox_S6_L008_R1_001.fastq.gz
+Started analysis of 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 5% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 10% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 15% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 20% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 25% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 30% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 35% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 40% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 45% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 50% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 55% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 60% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 65% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 70% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 75% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 80% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 85% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 90% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Approx 95% complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+Analysis complete for 7_2E_fox_S6_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 5% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 10% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 15% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 20% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 25% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 30% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 35% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 40% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 45% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 50% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 55% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 60% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 65% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 70% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 75% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 80% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 85% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 90% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Approx 95% complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Analysis complete for 8_2F_fox_S7_L008_R1_001.fastq.gz
+Started analysis of 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 5% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 10% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 15% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 20% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 25% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 30% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 35% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 40% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 45% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 50% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 55% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 60% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 65% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 70% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 75% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 80% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 85% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 90% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Approx 95% complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+Analysis complete for 8_2F_fox_S7_L008_R2_001.fastq.gz
+application/gzip
+application/gzip
+Started analysis of Undetermined_S0_L008_R1_001.fastq.gz
+Approx 5% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 10% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 15% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 20% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 25% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 30% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 35% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 40% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 45% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 50% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 55% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 60% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 65% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 70% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 75% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 80% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 85% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 90% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Approx 95% complete for Undetermined_S0_L008_R1_001.fastq.gz
+Analysis complete for Undetermined_S0_L008_R1_001.fastq.gz
+Started analysis of Undetermined_S0_L008_R2_001.fastq.gz
+Approx 5% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 10% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 15% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 20% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 25% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 30% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 35% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 40% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 45% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 50% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 55% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 60% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 65% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 70% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 75% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 80% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 85% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 90% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Approx 95% complete for Undetermined_S0_L008_R2_001.fastq.gz
+Analysis complete for Undetermined_S0_L008_R2_001.fastq.gz
