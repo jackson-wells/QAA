@@ -17,11 +17,16 @@ with open(file,"r") as fh:
     for line in fh:
         line = line.strip('\n')
         values = line.split("\t")
+        #if not a header line
         if values[0].find("@"):
-            if((int(values[1]) & 4) != 4 ) and ((int(values[1]) & 8) != 8):
-                mapCount += 1
-            else:
-                unmapCount += 1
+            #if not a secondary alignment
+            if((int(values[1]) & 256) != 256):
+                #if mapped
+                if((int(values[1]) & 4) != 4):
+                    mapCount += 1
+                #if not mapped
+                else:
+                    unmapCount += 1
 
 print("Mapped: " + str(mapCount))
 print("Unmapped: " + str(unmapCount))
